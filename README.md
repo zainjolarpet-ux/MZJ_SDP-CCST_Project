@@ -12,7 +12,7 @@ This repository contains the report, documentation, screenshots, and supporting 
 Due to GitHub's file size limitations, the exported virtual machine has been uploaded to Google Drive.
 
 Download the VM here:
-https://drive.google.com/your-link-here
+https://drive.google.com/file/d/1XMpujonljCeT2DlXhXQAkPVkV3-TtVdk/view?usp=sharing
 
 ## How to Use
 1. Download the ZIP file.
